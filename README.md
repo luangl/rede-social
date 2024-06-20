@@ -7,5 +7,8 @@ Desenvolvemos em conjunto uma rede social chamada Lurk, atendendo os requisitos 
 - Luiz Henrique Tineu
 - Noah Felipe do Nascimento Ramos
 
+Algumas paginas:
 ![Captura de tela 2024-06-20 202236](https://github.com/luangl/rede-social/assets/129619687/ac8527c5-2f20-4cb4-9162-b0a1578a0969)
+![Captura de tela 2024-06-20 195434](https://github.com/luangl/rede-social/assets/129619687/5c85015c-372f-4a93-9c30-8c19b86e381e)
+
 
