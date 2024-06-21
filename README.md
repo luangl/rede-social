@@ -1,6 +1,7 @@
 Trabalho de PHP para a Universidade Positivo.
-***PARA FUNCIONAR**
-Tem o arquivo db.php na pasta includes, lá deve ser preenchido com o user e a senha do mysql, tem o script do mysql para ser colocado no mysql a database é ***rede_social***
+
+**PARA FUNCIONAR**
+Tem o arquivo db.php na pasta includes, lá deve ser preenchido com o user e a senha do mysql, tem o script do mysql para ser colocado no mysql a database é ***rede_social***, ja está preenchido com alguns registros para o teste.
 
 Desenvolvemos em conjunto uma rede social chamada Lurk, atendendo os requisitos do trabalho, onde usuários se cadastram e conseguem fazer posts, comentar em posts de outras pessoas, ver o perfil de outras pessoas e também o proprio perfil, é totalmente estilizado. Está conectado no banco de dados MySQL
 
