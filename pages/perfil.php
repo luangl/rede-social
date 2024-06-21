@@ -38,7 +38,7 @@ $posts = $stmt->fetchAll();
 <head>
     <meta charset="UTF-8">
     <title>Perfil</title>
-    <link rel="stylesheet" href="feed.css">
+    <link rel="stylesheet" href="feedpo.css">
 </head>
 <body>
 <header>
@@ -77,7 +77,6 @@ $posts = $stmt->fetchAll();
             <?php endforeach; ?>
         </div>
     <?php endforeach; ?>
-    <?php include '../includes/footer.php'; ?>
     <script src="../js/scripts.js"></script>
 </body>
 </html>

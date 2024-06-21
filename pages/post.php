@@ -24,7 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <head>
     <meta charset="UTF-8">
     <title>Novo Post</title>
-    <link rel="stylesheet" href="feed.css">
+    <link rel="stylesheet" href="feedpo.css">
 </head>
 <body>
 <header>
@@ -44,6 +44,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <textarea id="conteudo" name="conteudo" required></textarea>
         <button type="submit">Postar</button>
     </form>
-    <?php include '../includes/footer.php'; ?>
 </body>
 </html>

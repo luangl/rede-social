@@ -90,6 +90,5 @@ if (!isset($_SESSION['username'])) {
             <i class="fas fa-sign-out-alt"></i> Logout
         </button>
     </div>
-    <?php include 'includes/footer.php'; ?>
 </body>
 </html>
