@@ -16,4 +16,6 @@ Algumas paginas:
 ![Captura de tela 2024-06-20 195349](https://github.com/luangl/rede-social/assets/129619687/d1ab70cc-cbd5-4530-b922-12afb1a1c4f0)
 ![Captura de tela 2024-06-20 195410](https://github.com/luangl/rede-social/assets/129619687/a390e152-e160-4799-af81-bf0b0b234426)
 ![Captura de tela 2024-06-20 195400](https://github.com/luangl/rede-social/assets/129619687/495228af-cc5c-4cbf-820f-c4508ba61e48)
+![Captura de tela 2024-06-20 195454](https://github.com/luangl/rede-social/assets/129619687/1b4a931f-3b3c-43f2-8aa7-0716e1f9ae68)
+
 
