@@ -36,21 +36,29 @@ h1 {
     color: #333;
 }
 
-.post, .comentario {
+.feedp {
+    font-size: 35px !important;
+    color: black;
+}
+
+.post,
+.comentario {
     background-color: rgb(239, 249, 255);
     margin: 20px auto;
     padding: 10px;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 80%;
 }
 
-.post h2, .comentario strong {
+.post h2,
+.comentario strong {
     color: #000000;
     font-size: 22px;
 }
 
-.post p, .comentario p {
+.post p,
+.comentario p {
     color: #000000 !important;
     font-size: 20px !important;
 }
